@@ -1,0 +1,14 @@
+.profile {
+    border-radius: 50%;
+    height: 400px;
+}
+
+.jumbotron > * {
+    color: white;
+}
+
+.jumbotron > p {
+    width: 30%;
+    text-align: center;
+    margin:0 auto;
+}
